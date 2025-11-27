@@ -9,7 +9,8 @@ import java.nio.charset.StandardCharsets;
 public class Lib {
 
     /**
-     * Decodes a Base64 encoded string and returns the decoded string
+     * Decodes a Base64 encoded string and returns
+     *  decoded string
      */
     public static String decode_from_base64(String encoded) throws IllegalArgumentException {
         if (encoded == null) {
