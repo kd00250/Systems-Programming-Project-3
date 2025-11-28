@@ -1,5 +1,5 @@
 # Systems-Programming-Project-3
-Client - Server Project
+Client - Server Project (both projects must be ran on the same machine)
 
 #Server Project Run Instructions
 -Unzip the file
